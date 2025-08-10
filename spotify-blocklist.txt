@@ -1,0 +1,16 @@
+! Spotify Ads & Tracking Blocklist for AdGuard Home
+! Updated: 2025-08-10
+! 注意：可能會影響部分非廣告功能
+||ads-fa.spotify.com^
+||ads-ak.spotify.com^
+||adstudio.scdn.co^
+||analytics.spotify.com^
+||audio2-ak.spotify.com^
+||crashdump.spotify.com^
+||log.spotify.com^
+||pixel.spotify.com^
+||pixel-static.spotify.com^
+||tracking.spotify.com^
+||video-fa.scdn.co^
+||weblb-wg.dual-gslb.spotify.com^
+||spclient.wg.spotify.com^$third-party
